@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1735461350 source:c:\users\muham\downloads\tubes aka\buble.cpp
+	"bubble.h"
+	<iostream>
+
+1735461388 c:\users\muham\downloads\tubes aka\bubble.h
+	<iostream>
+	<vector>
+	<string>
+
+1735461424 source:c:\users\muham\downloads\tubes aka\main.cpp
+	"bubble.h"
+	<iostream>
+
+1735461590 source:c:\users\muham\downloads\bubble sort\buble.cpp
+	"bubble.h"
+	<iostream>
+
+1735461388 c:\users\muham\downloads\bubble sort\bubble.h
+	<iostream>
+	<vector>
+	<string>
+
+1735461590 source:c:\users\muham\downloads\bubble sort\main.cpp
+	"bubble.h"
+	<iostream>
+

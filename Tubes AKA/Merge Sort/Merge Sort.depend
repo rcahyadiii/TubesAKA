@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1735463811 source:c:\users\muham\downloads\merge sort\merge.cpp
+	"merge.h"
+	<iostream>
+
+1735463811 c:\users\muham\downloads\merge sort\merge.h
+	<iostream>
+	<vector>
+	<string>
+
+1735464099 source:c:\users\muham\downloads\merge sort\main.cpp
+	<iostream>
+	"merge.h"
+
